@@ -19,3 +19,10 @@ The website introduces my background, technical skills, projects, certificates, 
 ## Purpose
 
 This project was created to practice HTML fundamentals by building a personal portfolio-style webpage.
+
+## Live Website
+
+The website is available online through GitHub Pages.
+
+**Live Demo:**  
+https://wejdan-h.github.io/personal-website/
